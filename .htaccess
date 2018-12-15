@@ -1,0 +1,31 @@
+RewriteEngine On
+
+# deal with acp first
+RewriteCond %{REQUEST_URI} ^/(acp)
+RewriteRule ^acp/assets/(.*)$ backend/web/assets/$1 [L]
+RewriteRule ^acp/css/(.*)$ backend/web/css/$1 [L]
+RewriteRule ^acp/images/(.*)$ backend/web/images/$1 [L]
+RewriteRule ^acp/js/(.*)$ backend/web/js/$1 [L]
+RewriteRule ^acp/filedinhkem/(.*)$ backend/web/filedinhkem/$1 [L]
+
+RewriteCond %{REQUEST_URI} !^/backend/web/(assets|css|images|js|filedinhkem)/
+RewriteCond %{REQUEST_URI} ^/(acp)
+RewriteRule ^.*$ backend/web/index.php [L]
+
+
+RewriteCond %{REQUEST_URI} ^/(assets|css|images|js)
+RewriteRule ^assets/(.*)$ frontend/web/assets/$1 [L]
+RewriteRule ^css/(.*)$ frontend/web/css/$1 [L]
+RewriteRule ^css/(.*)$ frontend/web/images/$1 [L]
+
+RewriteCond %{REQUEST_URI} /(dbadmin)
+RewriteRule ^dbadmin/(.*)$ dbadmin/$1 [L]
+
+RewriteCond %{REQUEST_URI} /(uploads)
+RewriteRule ^uploads/(.*)$ uploads/$1 [L]
+
+RewriteCond %{REQUEST_URI} !^/(frontend|backend)/web/(assets|css|images|js|filedinhkem)/
+RewriteCond %{REQUEST_URI} !index.php
+RewriteCond %{REQUEST_FILENAME} !-f [OR]
+RewriteCond %{REQUEST_FILENAME} !-d
+RewriteRule ^.*$ frontend/web/index.php

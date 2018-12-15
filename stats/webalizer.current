@@ -1,0 +1,1183 @@
+# Webalizer V2.23-08 Incremental Data - 12/15/2018 02:21:11
+2018 12 15 2 21 11
+60532 50956 120 206 58 89 272811597661 44569 875 0
+1 201 4713 1 15
+101 62 1134858839 4 46 4
+814 632 5798615781 5 633 19
+4235 3290 33123097900 31 1996 48
+9608 7877 55442173755 19 6419 151
+6096 5027 28345309339 16 4319 61
+9143 8406 14850665319 31 7916 122
+5110 3852 27908502285 16 3632 73
+1039 786 8769294050 9 530 18
+680 450 9364022001 3 426 9
+6667 5859 20157600630 17 5628 132
+8843 8390 11610327900 19 7892 103
+1748 1128 18702440496 14 728 26
+5016 4325 21325992171 23 3852 93
+1206 773 11933112945 12 494 15
+226 99 4345584250 1 58 1
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0
+25 22 1308532 5
+203 78 4344337051 53
+0 0 0 0
+0 0 0 0
+17 17 2226175 4
+1 1 1861 0
+2422 1977 8573898692 1631
+5914 5394 12441609702 4729
+9968 9404 17579878918 8802
+10129 8959 33109205064 8063
+1651 1411 7575920721 1227
+266 198 1565224796 156
+4525 3360 33201598444 2639
+10050 8301 56924494472 7554
+8520 6854 49812012376 5913
+2269 1472 18012549318 1153
+646 364 5238404858 235
+131 95 1709420270 16
+758 616 4475381891 338
+1526 1214 8555682081 952
+537 388 3251932675 358
+736 631 2528962907 551
+238 200 3907546857 190
+0
+0
+0
+50956
+0
+0
+0
+0
+0
+6333
+0
+0
+753
+0
+597
+0
+0
+4
+0
+0
+12
+1562
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+315
+0
+0
+0
+0
+0
+# -urls- 
+/acp/assets/7676b0bd/css/fileinput.css
+0 1 0 10431 0 0
+/acp/elearning/lesson/quiz
+0 3 0 40281 0 0
+/images/banner/courses-banner.jpg
+1 224 0 64213528 0 0
+/uploads/elearning/feature/khong-bi-gioi-han-boi-khong-gian-va-thoi-gian.jpeg
+0 185 0 1169175 0 0
+/uploads/elearning/feature/chung-chi.png
+1 182 0 609957 0 0
+/api/elearning/lesson/list
+0 20 0 39399616 2 0
+/acp/assets/b577122a/css/jquery.fancybox.css
+0 1 0 13431 0 0
+/acp/assets/1942e40a/css/kv-grid.css
+0 5 0 69545 0 0
+/assets/c3949e05/yii.captcha.js
+0 26 0 53100 0 0
+/acp
+0 2 0 38306 0 0
+/acp/assets/95dd21c7/dist/css/AdminLTE.min.css
+0 8 0 799680 0 0
+/api/elearning/course/delete
+0 1 0 49365 0 0
+/acp/elearning/student/history
+0 5 0 94689 0 0
+/acp/assets/5c50a89a/js/i18n/vi.js
+0 3 0 2409 0 0
+/acp/assets/8838059c/css/font-awesome.min.css
+0 9 0 248032 0 0
+/acp/assets/1f0030df/adapters/jquery.js
+0 1 145 3188 0 0
+/acp/assets/b577122a/css/font-awesome.min.css
+0 9 48 248000 0 0
+/uploads/avatars/IMG_1527338044784_1528727697700.jpg
+1 11 1853238900 17490 0 0
+/api/elearning/course/store
+0 2 8391050530721366016 24522 0 0
+/api/elearning/question/store
+0 5 0 4858 0 0
+/uploads/avatars/Anh ho so.png
+1 3 0 136489 0 0
+/student
+0 1 0 8217 0 0
+/acp/assets/7676b0bd/js/plugins/sortable.js
+0 1 0 37995 0 0
+/acp/assets/1f0030df/lang/en.js
+0 1 0 11162 0 0
+/uploads/elearning/lesson/resource/TCH-Co-so-Bai-2-Xay-dung-ap-dung-TC.mp4
+0 1133 0 40163280433 0 0
+/acp/elearning/course
+0 78 0 3383562 0 0
+/acp/settings
+0 3 0 140496 0 0
+/acp/assets/c3949e05/yii.activeForm.js
+0 7 0 231238 0 0
+/acp/assets/1f0030df/skins/moono-lisa/icons.png
+1 1 0 9391 0 0
+/uploads/elearning/course/full-tieu-chuan-lua-chon-cua-doanh-nghiep-trong-thoi-ky-hoi-nhap.jpeg
+0 151 0 44666475 0 0
+/acp/assets/b577122a/js/cleave.min.js
+0 1 0 13169 0 0
+/acp/assets/6dedfe3/js/kv-widgets.js
+0 4 0 4368 0 0
+/site/about
+0 166 0 2547526 0 0
+/acp/assets/88f657ea/js/datepicker-kv.js
+0 1 0 1743 0 0
+/acp/assets/88f657ea/css/datepicker-kv.css
+0 1 0 1213 0 0
+/acp/assets/6dedfe3/css/kv-widgets.css
+0 3 0 2175 0 0
+/js/bootstrap.js
+0 230 0 14777884 0 0
+/acp/assets/47167aa2/js/bootstrap.js
+0 9 0 576672 0 0
+/acp/assets/88f657ea/css/bootstrap-datepicker3.css
+0 1 0 23573 0 0
+/acp/assets/b577122a/js/custom.js
+0 9 0 10512 0 0
+/acp/assets/88f657ea/js/locales/bootstrap-datepicker.vi.min.js
+0 1 0 553 0 0
+/api/elearning/question/bank
+0 5 0 10851 0 0
+/api/elearning/course/download
+0 1 0 6870 0 0
+/acp/assets/c3949e05/yii.validation.js
+0 7 0 111629 0 0
+/acp/elearning/question
+0 4 0 143028 0 0
+/acp/assets/c3949e05/yii.js
+0 9 0 163128 0 0
+/js/placeholder.js
+0 240 0 1110282 0 0
+/acp/elearning/course/student
+0 137 0 20781847 2 4
+/acp/assets/46463599/jquery.pjax.js
+0 7 0 207116 0 0
+/js/jquery.countdown.js
+0 228 0 634200 0 0
+/js/countdown-script.js
+0 279 0 161667 0 0
+/acp/elearning/feature
+0 1 0 28245 0 0
+/acp/assets/8e46c916/dist/js/bootstrap-dialog.js
+0 5 0 245260 0 0
+/acp/assets/5c50a89a/css/select2-addl.css
+0 3 0 3024 0 0
+/site/captcha
+0 32 0 92157 0 0
+/api/elearning/quiz/store
+0 4 0 25814 0 0
+/assets/c3949e05/yii.activeForm.js
+0 173 0 5483644 0 0
+/acp/assets/1f0030df/plugins/scayt/skins/moono-lisa/scayt.css
+0 1 0 330 0 0
+/acp/images/vsqi.png
+1 11 0 18610 0 0
+/acp/assets/5b296b76/jquery.js
+0 9 0 2138920 0 0
+/api/elearning/lesson/store
+0 2 0 704 0 0
+/site/term
+0 14 0 117402 0 0
+/uploads/elearning/course/full-tieu-chuan-voi-doanh-nghiep-tr.jpeg
+0 44 0 2501310 0 0
+/acp/assets/6dedfe3/img/loading-plugin.gif
+1 3 0 2541 0 0
+/api/elearning/category/index
+0 19 0 223663 0 1
+/acp/assets/1942e40a/js/kv-grid-checkbox.js
+0 3 0 7689 0 0
+/api/elearning/quiz/saveanswer
+0 29257 0 166950423 483 495
+/api/elearning/quiz/list
+0 11 0 30068042 3 0
+/acp/log
+0 1 0 30876 0 0
+/uploads/elearning/lesson/resource/TCH-KVuc_e-learning_recorded.mp4
+0 673 0 15066279257 0 0
+/acp/assets/1942e40a/css/jquery.resizableColumns.css
+0 5 0 2860 0 0
+/uploads/elearning/course/full-xay-dung-website-ban-hang.jpeg
+0 1 0 59827 0 0
+/site/contact
+0 68 0 980309 2 2
+/images/vsqi.png
+1 290 0 495026 0 0
+/site/signup
+0 21 0 387984 1 1
+/acp/assets/95dd21c7/dist/css/skins/_all-skins.min.css
+0 8 0 285299 0 0
+/acp/assets/1f0030df/config.js
+0 1 8515853249979446387 1359 0 0
+/site/login
+0 780 3977010747640184832 8154502 99 11
+/uploads/elearning/banner/1539224592.jpeg
+0 1 8100337892954371173 80660 0 0
+/site/policy
+0 2 3688780375736660273 16790 0 0
+/acp/assets/5c50a89a/js/select2.full.js
+0 3 121453864052084 504762 0 0
+/acp/assets/8838059c/fonts/fontawesome-webfont.woff2
+0 8 1853238900 617280 0 0
+/uploads/elearning/banner/1539224681.png
+1 187 7239214 9666358 0 0
+/uploads/elearning/course/nghiep-vu-xay-dung-tieu-chuan-quoc-gia-khoa-co-so.jpeg
+0 201 0 6165558 0 0
+/js/coustem.js
+0 230 0 1982178 0 0
+/course/default/course
+0 1654 0 18584000 26 50
+/acp/tintuc
+0 3 0 86690 0 0
+/acp/elearning/quiz
+0 7 0 224826 0 2
+/api/elearning/quiz/view
+0 561 0 51556234 8 1
+/acp/assets/b577122a/js/ckeditor5.js
+0 9 0 19424 0 0
+/acp/elearning/category
+0 5 0 146470 0 1
+/acp/assets/b577122a/fonts/fontawesome-webfont.woff2
+0 9 0 617280 0 0
+/api/elearning/category/list
+0 5 0 560 0 0
+/acp/assets/7676b0bd/js/plugins/purify.js
+0 1 0 31417 0 0
+/uploads/elearning/attachment/HDQT_Elearning_Hoc_vien.pdf
+0 115 0 107643900 0 0
+/api/elearning/attachment/list
+0 10 0 42190 0 1
+/uploads/elearning/course/tieu-chuan-lua-chon-cua-doanh-nghiep-trong-thoi-ky-hoi-nhap.jpeg
+0 197 0 6400059 0 0
+/assets/5b296b76/jquery.js
+0 231 0 57198243 0 0
+/api/elearning/course/active
+0 1 0 13952 0 0
+/uploads/elearning/feature/ang-ky.png
+1 182 0 516000 0 0
+/uploads/config.jpg
+1 8 0 9256 0 0
+/css/jquery.countdown.css
+0 245 0 347492 0 0
+/api/elearning/student/store
+0 4 0 1400 0 0
+/acp/assets/1942e40a/js/kv-grid-export.js
+0 5 0 87820 0 0
+/js/jquery-1.12.4.min.js
+0 228 0 20404230 0 0
+/css/owl.carousel.css
+0 252 0 1042425 0 0
+/uploads/elearning/course/tieu-chuan-voi-doanh-nghiep-hoat-dong-trong-linh-vuc-dien-dien-tu.jpeg
+0 199 0 10146380 0 0
+/images/parallax/preparation-bg.jpg
+1 177 0 105068556 0 0
+/api/elearning/course/deactive
+0 1 0 806 0 0
+/acp/elearning/quiz/update
+0 5 0 185281 0 0
+/js/jquery.form-validator.min.js
+0 230 0 6155208 0 0
+/acp/assets/47167aa2/css/bootstrap.css.map
+0 1 0 389287 0 0
+/acp/assets/c3949e05/yii.captcha.js
+0 5 0 10620 0 0
+/api/elearning/quiz/reviewanswer
+0 422 0 2387348 0 0
+/api/elearning/student/list
+0 223 0 176848865 13 9
+/acp/assets/b577122a/js/modal.js
+0 8 0 447804 0 0
+/student/history
+0 987 0 22118852 15 30
+/acp/assets/8e46c916/dist/css/bootstrap-dialog.css
+0 5 0 12295 0 0
+/api/elearning/feature/list
+0 1 0 2293 0 0
+/student/profile/edit
+0 432 0 7087680 3 2
+/acp/assets/b577122a/js/jquery-ui-1.9.2/_js/jquery-ui-1.9.2.js
+0 1 0 450130 0 0
+/images/search-icon.png
+1 187 0 277271 0 0
+/assets/c3949e05/yii.validation.js
+0 165 0 2535573 0 0
+/api/elearning/feedback/list
+0 1 0 774 0 0
+/acp/assets/b577122a/js/custom-ckeditor.js
+0 9 0 3451384 0 0
+/site/request-password-reset
+0 150 0 1436170 5 3
+/student/course/doquiz
+0 1044 0 25099809 3 7
+/uploads/avatars/WP_20150629_018.jpg
+1 1 0 0 0 0
+/acp/user
+0 2 0 54822 2 1
+/acp/assets/1942e40a/js/jquery.resizableColumns.js
+0 5 0 44290 0 0
+/uploads/avatars/41392568_2184316054943201_7408960839211810816_o.jpg
+1 2 0 1491524 0 0
+/acp/assets/c548bda7/css/skins/_all-skins.min.css
+0 8 0 285299 0 0
+/acp/assets/1f0030df/contents.css
+0 1 0 2955 0 0
+/uploads/avatars/IMG_0794.JPG
+1 3 0 659150 0 0
+/api/elearning/course/list
+0 179 0 157698387 3 3
+/uploads/elearning/lesson/resource/TCH-Co-so-Bai-1-Khai-quat.mp4
+0 1235 0 50860852841 0 0
+/acp/assets/47167aa2/fonts/glyphicons-halflings-regular.woff2
+0 10 0 180280 0 0
+/acp/elearning/banner
+0 1 0 27810 0 0
+/api/elearning/quiz/showresult
+0 441 0 5419349 0 3
+/css/site.css
+0 255 0 1651680 0 0
+/student/course/lesson
+0 1204 0 28360145 30 13
+/uploads/elearning/feature/gioi-thieu.png
+1 185 0 976662 0 0
+/acp/elearning/student
+0 38 0 1435792 7 1
+/acp/assets/5c50a89a/css/select2-krajee.css
+0 3 0 63642 0 0
+/api/elearning/quiz/detail
+0 10 0 362918 0 0
+/acp/assets/bc1f042a/js/dialog.js
+0 5 0 24465 0 0
+/acp/assets/7676b0bd/js/locales/vi.js
+0 1 0 5114 0 0
+/uploads/avatars/P_20150416_203504.jpg
+1 1 0 305642 0 0
+/css/bootstrap.css
+0 274 0 37222071 0 0
+/acp/user/change-info
+0 1 0 8978 0 0
+/api/elearning/student/delete
+0 1 0 478 0 0
+/acp/
+0 30 0 573480 7 0
+/uploads/elearning/feedback/hoang-phuc.jpeg
+0 181 0 12491072 0 0
+/site/reset-password
+0 35 0 318568 6 0
+/uploads/elearning/feature/giai-dap-cac-cau-hoi.png
+1 184 0 818636 0 0
+/acp/assets/7676b0bd/js/fileinput.js
+0 1 0 182487 0 0
+/acp/site/captcha
+0 34 0 35021 7 0
+/student/course/completelesson
+0 1810 0 27260467 18 21
+/uploads/elearning/course/full-nghiep-vu-xay-dung-tieu-chuan-quoc-gia-khoa-co-so.jpeg
+0 60 0 5463341 0 0
+/student/course/detail
+0 543 0 8376736 10 11
+/uploads/elearning/lesson/resource/TCH-Co-so-Bai-2-Xay-dung-ap-dung-TC-luu.mp4
+0 1 0 0 0 0
+/acp/assets/6756f7c2/jquery.inputmask.bundle.js
+0 2 0 382774 0 0
+/api/elearning/lesson/delete
+0 1 0 975 0 0
+/
+0 846 0 14570509 77 50
+/acp/assets/5c50a89a/js/select2-krajee.js
+0 3 0 18084 0 0
+/acp/assets/5c50a89a/css/select2.css
+0 3 0 10446 0 0
+/course/default/category
+0 432 0 4639248 3 4
+/acp/assets/b577122a/css/site.css
+0 9 0 277634 0 0
+/acp/assets/47167aa2/css/bootstrap.css
+0 8 0 1069369 0 0
+/course
+0 784 0 10591607 9 10
+/js/owl.carousel.js
+0 231 0 16857459 0 0
+/student/course/doquizfinal
+0 65 0 1602296 0 0
+/uploads/avatars/20180419_141250.jpg
+1 1 0 387172 0 0
+/api/elearning/message/list
+0 558 0 160833 2 36
+/acp/assets/c548bda7/js/app.min.js
+0 9 0 79480 0 0
+/acp/assets/7676b0bd/img/loading.gif
+1 1 0 847 0 0
+/api/elearning/quiz/delete
+0 1 0 21655 0 0
+/acp/site/login
+0 19 0 129572 6 1
+/api/elearning/result/review
+0 22 0 1568641 0 0
+/acp/assets/c548bda7/css/AdminLTE.min.css
+0 8 0 799680 0 0
+/acp/assets/c3949e05/yii.gridView.js
+0 5 0 47800 0 0
+/assets/c3949e05/yii.js
+0 228 0 4343283 0 0
+/api/elearning/result
+0 30 0 2106636 0 0
+/acp/assets/b577122a/js/jquery-ui-1.9.2/_css/custom-theme/jquery-ui-1.9.2.css
+0 1 0 32403 0 0
+/acp/elearning/lesson
+0 10 0 448640 0 1
+/uploads/elearning/attachment/bien-ban.ppt
+0 1 0 317952 0 0
+/uploads/elearning/lesson/resource/TCH-QT_e-learning.mp4
+0 910 0 43975911511 0 0
+/acp/elearning/attachment
+0 5 0 143625 0 0
+/uploads/elearning/lesson/resource/Hoat-dong-xay-dung-va-ap-dung-tieu-chuan-(133MB)-Upload.mp4
+0 2540 0 121210699603 0 0
+/acp/assets/b577122a/js/setting.js
+0 1 0 3585 0 0
+/acp/assets/b577122a/js/jquery.fancybox.js
+0 1 0 117638 0 0
+/acp/assets/b577122a/css/ionicons.min.css
+0 9 0 410272 0 0
+/acp/assets/1f0030df/skins/moono-lisa/editor.css
+0 1 0 48420 0 0
+/images/courses-bg.png
+1 186 0 1929894 0 0
+/acp/elearning/feedback
+0 1 0 29038 0 0
+/acp/elearning/quiz/create
+0 2 0 39418 0 0
+/acp/assets/1f0030df/styles.js
+0 1 0 5516 0 0
+/student/course/quiz
+0 196 0 2993475 2 3
+/api/elearning/question/list
+0 20 0 56999005 2 1
+/css/loader.css
+0 247 0 1256640 0 0
+/acp/assets/1f0030df/ckeditor.js
+0 1 0 534600 0 0
+/acp/assets/1f0030df/plugins/wsc/skins/moono-lisa/wsc.css
+0 1 0 1306 0 0
+/api/elearning/banner/list
+0 1 0 422 0 0
+/acp/assets/ec24c83/dosamigos-ckeditor.widget.js
+0 1 0 1506 0 0
+/acp/assets/88f657ea/js/bootstrap-datepicker.js
+0 1 0 60625 0 0
+/css/docs.css
+0 256 0 38038387 0 0
+# End Of Table - urls
+# -sites- (monthly)
+66.220.149.20
+0 1 1 1861 0 0
+-
+173.252.95.16
+0 1 1 1861 0 0
+-
+google-proxy-66-249-82-184.google.com
+0 13 13 547082 1 1544093466
+/
+100.93.222.152
+0 17 14 268346 1 1544264433
+/student/history
+180.148.5.91
+0 1561 1550 5812236221 29 1544709519
+/course/default/category
+45.121.161.133
+0 140 131 20486030 5 1544088561
+/api/elearning/student/list
+google-proxy-66-249-82-80.google.com
+0 23 21 598898 2 1544454384
+/course
+66.160.178.66
+0 18 11 1851206 1 1544106253
+/course/default/course
+66.220.149.33
+0 1 1 1861 0 0
+-
+171.234.18.229
+0 22 2 34779 1 1544100848
+/course/default/course
+116.98.84.124
+0 99 88 853857043 3 1544221325
+/student/course/detail
+27.72.127.172
+0 1374 1281 10415743539 22 1544794135
+/
+171.235.222.40
+0 48 47 2655307 1 1543924614
+/student/history
+66.160.188.66
+0 2 1 16556 1 1544110847
+/
+52.114.6.38
+0 8 4 62478 1 1544734088
+/student/course/doquiz
+173.252.79.2
+0 2 1 6789 1 1543845254
+/acp/site/login
+141-8-183-32.spider.yandex.com
+0 2 1 24487 1 1544307719
+/
+static.vdc.vn
+0 57 50 4331847 1 1543950863
+/student/history
+google-proxy-66-102-6-182.google.com
+0 6 2 34028 2 1544517747
+/
+125.214.50.99
+0 165 142 5703746 1 1544020632
+/student/profile/edit
+173.252.79.5
+0 2 1 6789 1 1543845256
+/acp/site/login
+google-proxy-66-102-8-26.google.com
+0 29 29 2309504 1 1544092611
+/
+173.252.95.10
+0 1 1 1861 0 0
+-
+google-proxy-66-249-82-137.google.com
+0 15 13 618838 2 1544454359
+/
+64.62.232.97
+0 12 8 119792 1 1544018461
+/course/default/course
+100.107.84.37
+0 53 49 430293032 1 1543872495
+/student/course/lesson
+171.255.174.8
+0 25 24 1307074 1 1544798232
+/site/login
+google-proxy-66-102-6-186.google.com
+0 4 3 49899 3 1544775508
+/
+42.112.61.210
+0 102 98 4564962360 1 1543847947
+/api/elearning/message/list
+69.171.251.9
+0 1 1 1861 0 0
+-
+171.229.243.160
+0 42 37 4228535 1 1544280730
+/acp/elearning/course/student
+173.252.95.19
+0 1 1 6789 1 1543845255
+/acp/site/login
+117.6.130.160
+0 2518 2391 39922905128 38 1544805788
+/
+google-proxy-66-102-7-88.google.com
+0 8 8 440026 1 1544688153
+/acp/site/login
+31.13.115.3
+0 1 1 1861 0 0
+-
+116.97.34.62
+0 1 1 114 1 1544469346
+/api/elearning/message/list
+171.243.51.158
+0 453 430 448873104 1 1544224364
+/student/course/quiz
+74.82.35.98
+0 3 2 29308 1 1543917748
+/course/default/category
+66.220.149.21
+0 1 0 0 1 1544275787
+/acp/user
+69.171.251.18
+0 1 1 1861 0 0
+-
+125.214.51.141
+0 161 131 3282958509 3 1544628430
+/student/course/completelesson
+localhost
+0 5223 4838 26460163170 96 1544735224
+/student/history
+66.220.149.30
+0 1 1 1861 0 0
+-
+66.220.149.1
+0 1 1 1861 0 0
+-
+google-proxy-66-249-82-186.google.com
+0 4 4 210515 0 0
+-
+100.107.90.120
+0 460 453 389147018 3 1544223077
+/student/course/completelesson
+66.220.149.11
+0 2 2 3722 0 0
+-
+173.252.95.3
+0 1 0 0 1 1543845254
+/acp/elearning/student
+103.199.56.30
+0 11 9 337849 1 1543852063
+/site/login
+66.220.149.28
+0 2 2 3240 1 1544275790
+/acp/site/captcha
+google-proxy-66-249-82-138.google.com
+0 16 16 765094 3 1544454393
+/course/default/course
+173.252.79.3
+0 1 1 6789 1 1543845256
+/acp/site/login
+google-proxy-66-249-82-82.google.com
+0 16 15 233773 3 1544454311
+/student/course/lesson
+google-proxy-66-102-6-184.google.com
+0 6 2 34028 2 1544179143
+/
+google-proxy-66-102-8-22.google.com
+0 32 32 1058600 1 1544542048
+/
+171.251.123.174
+0 79 70 630101294 2 1543851728
+/api/elearning/message/list
+google-proxy-64-233-173-182.google.com
+0 55 22 1318055 2 1544018476
+/course/default/course
+static.vnpt.vn
+0 38511 36762 143772077884 427 1544840396
+/api/elearning/message/list
+173.252.95.1
+0 1 1 1292 1 1543845257
+/acp/site/captcha
+173.252.79.4
+0 1 1 6789 1 1543845254
+/acp/site/login
+google-proxy-66-102-7-86.google.com
+0 5 5 741847 0 0
+-
+173.252.127.1
+0 1 1 1861 0 0
+-
+66.220.149.31
+0 1 1 6789 1 1544275788
+/acp/site/login
+66.220.149.29
+0 1 1 1861 0 0
+-
+116.104.141.1
+0 284 257 78616599 3 1544689522
+/api/elearning/lesson/list
+61.129.8.179
+0 11 11 597587 1 1544732393
+/
+69.171.251.35
+0 1 1 1861 0 0
+-
+66.220.149.24
+0 2 2 3205 1 1544275790
+/acp/site/captcha
+173.252.95.23
+0 1 1 1861 0 0
+-
+100.117.70.1
+0 4828 4614 9512019486 85 1544800928
+/student/history
+171.225.235.155
+0 42 36 1562533808 1 1544728844
+/student/history
+google-proxy-66-249-82-122.google.com
+0 43 40 2651711 6 1544543423
+/student/course/completelesson
+100.108.39.136
+0 652 641 4593918606 15 1543784346
+/site/contact
+173.252.87.1
+0 1 0 0 1 1543845254
+/acp/elearning/student
+google-proxy-66-102-7-90.google.com
+0 10 10 318093 1 1544688157
+/acp/site/captcha
+171.251.127.96
+0 25 24 1317560 1 1544631175
+/site/login
+69.171.251.27
+0 1 1 1861 0 0
+-
+52.114.14.102
+0 8 4 62478 1 1544699172
+/student/course/lesson
+117.6.135.242
+0 280 248 886859647 8 1544604379
+/course/default/course
+74.82.60.82
+0 47 39 2567606 1 1544613146
+/course/default/course
+100.108.48.97
+0 40 35 1133680189 2 1543662645
+/student/history
+171.251.103.174
+0 61 56 2839872 1 1543850686
+/course
+100.73.254.69
+0 30 30 1684757 1 1543951140
+/api/elearning/message/list
+66.220.149.17
+0 1 1 1403 1 1543845256
+/acp/site/captcha
+213-180-203-34.spider.yandex.com
+0 8 4 1754999 2 1543998696
+/course/default/course
+google-proxy-66-102-8-24.google.com
+0 22 22 1567944 1 1544170496
+/site/login
+google-proxy-66-249-82-120.google.com
+0 42 37 1171033 5 1544539031
+/student/history
+103.225.237.2
+0 31 31 1794267 1 1543928948
+/acp/user
+173.252.87.9
+0 1 1 6789 1 1543845255
+/acp/site/login
+58.186.0.132
+0 25 23 599417316 1 1543737212
+/student/history
+66.220.149.36
+0 1 1 1312 1 1543845256
+/acp/site/captcha
+125.214.51.212
+0 84 79 3217943 1 1544740380
+/course/default/course
+google-proxy-66-249-82-78.google.com
+0 17 14 510432 2 1544453060
+/course/default/course
+google-proxy-66-249-82-182.google.com
+0 14 14 1071323 0 0
+-
+google-proxy-64-233-173-186.google.com
+0 65 25 1110069 2 1544018429
+/
+100.117.72.166
+0 353 339 4592467841 5 1544095989
+/student/history
+65.49.126.66
+0 24 17 495240 1 1544102624
+/course/default/course
+google-proxy-66-249-82-139.google.com
+0 19 18 907437 2 1544454342
+/student/course/lesson
+google-proxy-66-102-6-142.google.com
+0 1 0 229 0 0
+-
+66.220.149.13
+0 1 1 1861 0 0
+-
+ptr.vng.vn
+0 4 3 46052 3 1544698001
+/student/course/lesson
+66.220.149.19
+0 1 1 1861 0 0
+-
+google-proxy-66-249-82-118.google.com
+0 25 24 964378 6 1544539052
+/student/course/completelesson
+117.6.94.10
+0 147 127 7227185 4 1544535668
+/course/default/course
+66.220.149.42
+0 1 1 1861 0 0
+-
+205.207.151.61.dial.xw.sh.dynamic.163data.com.cn
+0 11 11 597586 1 1544513610
+/
+cache.google.com
+0 31 31 1828920 1 1543931886
+/
+171.237.128.112
+0 2 0 74838 1 1544548069
+/student/history
+google-proxy-66-102-6-145.google.com
+0 1 1 16556 1 1543823955
+/
+171.225.235.9
+0 67 37 1248408 2 1544344255
+/student/course/detail
+google-proxy-64-233-173-184.google.com
+0 67 26 1852076 2 1544018476
+/course/default/course
+125.214.50.25
+0 262 255 4938538548 2 1544710107
+/api/elearning/message/list
+static.vnpt-hanoi.com.vn
+0 874 775 7565794091 10 1544720012
+/acp/log
+115.79.209.200
+0 148 141 8870395 4 1544622102
+/student/history
+123.20.189.8
+0 264 249 259546602 1 1544734072
+/
+69.171.251.26
+0 1 1 1861 0 0
+-
+171.238.15.44
+0 21 21 1278207 1 1543934201
+/site/login
+66.220.149.35
+0 1 1 1861 0 0
+-
+64.62.175.94
+0 102 74 4725529 1 1544004934
+/course/default/course
+66.220.149.4
+0 1 1 1219 1 1543845256
+/acp/site/captcha
+# End Of Table - sites (monthly)
+# -sites- (daily)
+static.vnpt.vn
+0 226 220 4345584250 1 1544840396
+/api/elearning/message/list
+# End Of Table - sites (daily)
+# -referrers- 
+http://daotao.vsqi.gov.vn/acp/elearning/attachment
+0 15
+http://daotao.vsqi.gov.vn/acp/elearning/student
+0 277
+http://daotao.vsqi.gov.vn/student/course/detail
+0 684
+http://daotao.vsqi.gov.vn/acp/elearning/quiz
+0 24
+http://daotao.vsqi.gov.vn/acp/assets/b577122a/css/font-awesome.min.css
+0 8
+http://daotao.vsqi.gov.vn/uploads/elearning/lesson/resource/Hoat-dong-xay-dung-va-ap-dung-tieu-chuan-(133MB)-Upload.mp4
+0 6
+http://daotao.vsqi.gov.vn/acp/assets/1f0030df/skins/moono-lisa/editor.css
+0 1
+http://daotao.vsqi.gov.vn/acp/assets/7676b0bd/css/fileinput.css
+0 1
+http://daotao.vsqi.gov.vn/student
+0 1
+http://daotao.vsqi.gov.vn/acp/elearning/category
+0 26
+http://daotao.vsqi.gov.vn/site/term
+0 11
+http://daotao.vsqi.gov.vn//
+0 2
+http://daotao.vsqi.gov.vn/site/policy
+0 2
+http://daotao.vsqi.gov.vn/acp
+0 38
+http://daotao.vsqi.gov.vn/student/course/quiz
+0 189
+http://daotao.vsqi.gov.vn/site/request-password-reset
+0 162
+http://daotao.vsqi.gov.vn/student/profile/edit
+0 628
+http://daotao.vsqi.gov.vn/acp/elearning/lesson
+0 36
+http://daotao.vsqi.gov.vn/site/login
+0 2995
+http://daotao.vsqi.gov.vn/css/docs.css
+0 466
+http://daotao.vsqi.gov.vn/acp/assets/6dedfe3/css/kv-widgets.css
+0 3
+http://daotao.vsqi.gov.vn/site/contact
+0 139
+https://www.google.com/
+0 1
+- (Direct Request)
+0 2503
+http://daotao.vsqi.gov.vn/acp/elearning/course/student
+0 668
+http://daotao.vsqi.gov.vn/acp/elearning/question
+0 26
+http://daotao.vsqi.gov.vn/course/default/category
+0 529
+http://daotao.vsqi.gov.vn/site/signup
+0 30
+http://daotao.vsqi.gov.vn/acp/tintuc
+0 53
+http://daotao.vsqi.gov.vn/acp/site/login
+0 145
+http://daotao.vsqi.gov.vn/student/course/doquizfinal
+0 26887
+http://daotao.vsqi.gov.vn/student/history
+0 1501
+http://daotao.vsqi.gov.vn/course/default/course
+0 2191
+http://daotao.vsqi.gov.vn/acp/elearning/student/history
+0 2
+http://daotao.vsqi.gov.vn/acp/elearning/feedback
+0 2
+http://daotao.vsqi.gov.vn/site/about
+0 200
+http://daotao.vsqi.gov.vn/acp/role
+0 1
+http://daotao.vsqi.gov.vn/acp/assets/47167aa2/css/bootstrap.css
+0 9
+http://daotao.vsqi.gov.vn/student/course/completelesson
+0 1847
+http://daotao.vsqi.gov.vn/student/course/lesson
+0 7617
+http://daotao.vsqi.gov.vn/acp/assets/8838059c/css/font-awesome.min.css
+0 7
+http://daotao.vsqi.gov.vn/uploads/elearning/attachment/HDQT_Elearning_Hoc_vien.pdf
+0 34
+http://daotao.vsqi.gov.vn/acp/settings
+0 28
+http://daotao.vsqi.gov.vn/acp/elearning/lesson/quiz
+0 3
+http://daotao.vsqi.gov.vn/site/reset-password
+0 109
+http://daotao.vsqi.gov.vn/uploads/elearning/lesson/resource/TCH-Co-so-Bai-1-Khai-quat.mp4
+0 3
+https://l.facebook.com/
+0 4
+http://daotao.vsqi.gov.vn/acp/user
+0 38
+http://daotao.vsqi.gov.vn/acp/elearning/feature
+0 2
+http://daotao.vsqi.gov.vn/acp/
+0 81
+http://daotao.vsqi.gov.vn/acp/elearning/quiz/create
+0 4
+android-app://com.google.android.gm
+0 48
+http://daotao.vsqi.gov.vn/acp/elearning/banner
+0 3
+http://daotao.vsqi.gov.vn/acp/elearning/quiz/update
+0 32
+http://daotao.vsqi.gov.vn/course
+0 890
+http://daotao.vsqi.gov.vn/acp/elearning/course
+0 245
+http://daotao.vsqi.gov.vn/student/course/doquiz
+0 4748
+http://daotao.vsqi.gov.vn/
+0 4327
+# End Of Table - referrers
+# -agents- 
+AppleCoreMedia/1.0.0.15G77 (iPhone; U; CPU OS 11_4_1 like Mac OS X; vi_vn)
+0 36
+Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) coc_coc_browser/75.4.124 Chrome/69.4.3497.124 Safa
+0 369
+Mozilla/5.0 (Linux; U; Android 6.0; en-us; Redmi Note 4 Build/MRA58K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chro
+0 197
+Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/45.0.2454.101 Safari/537.36
+0 4
+Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:63.0) Gecko/20100101 Firefox/63.0
+0 3720
+Mozilla/5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/71.0.3578.98 Safari/537.36
+0 22
+Mozilla/5.0 (Windows NT 6.1; Trident/7.0; rv:11.0) like Gecko
+0 205
+Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.110 Safari/537.36
+0 9770
+Mozilla/5.0 (Linux; Android 7.0; SM-N920C) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.80 Mobile Safari/537.36
+0 116
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_4) AppleWebKit/537.36 (KHTML, like Gecko) \t\t\tChrome/55.0.2883.95 Safari/537.3
+0 3
+Mozilla/5.0 (compatible; YandexImages/3.0; +http://yandex.com/bots)
+0 1
+Mozilla/5.0 (Windows NT 5.1; rv:52.0) Gecko/20100101 Firefox/52.0
+0 271
+Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36
+0 4
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.102 Safari/537.36
+0 346
+Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/71.0.3578.80 Safari/537.36
+0 1025
+Mozilla/5.0 (Windows NT 6.2; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/32.0.1667.0 Safari/537.36 _zbot
+0 4
+Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) coc_coc_browser/76.0.112 Chrome/70.0.3538.112 Safa
+0 388
+Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/53.0.2785.104 Safari/537.36 Core/1.53.2141.
+0 4
+Mozilla/5.0 (Windows NT 6.1; WOW64; Trident/7.0; SLCC2; .NET CLR 2.0.50727; .NET CLR 3.5.30729; .NET CLR 3.0.30729; Media Cen
+0 2
+Mozilla/5.0 (Linux; Android 5.1; itel it1516 Plus Build/LMY47D) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/68.0.3440.91 Mo
+0 156
+Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) coc_coc_browser/76.0.114 Chrome/70.0.3538.114 Safa
+0 262
+Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/71.0.3578.98 Safari/537.36
+0 131
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/64.0.3282.140 Safari/537.36 Edge/18.1
+0 32
+Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) coc_coc_browser/76.0.110 Chrome/70.0.3538.110 Saf
+0 28
+Mozilla/5.0 (Windows NT 6.1; WOW64; rv:63.0) Gecko/20100101 Firefox/63.0
+0 340
+Zalo-win32-24v324
+0 4
+Mozilla/5.0 (Linux; Android 8.1.0; SAMSUNG SM-G610F Build/M1AJQ) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/7.4 Ch
+0 261
+Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) coc_coc_browser/76.0.110 Chrome/70.0.3538.110 Safari/537.
+0 167
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/71.0.3578.98 Safari/537.36
+0 49
+Mozilla/5.0 (Linux; Android 5.1.1; A37f) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/71.0.3578.83 Mobile Safari/537.36
+0 256
+Mozilla/5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.110 Safari/537.36
+0 248
+AppleCoreMedia/1.0.0.15E302 (iPhone; U; CPU OS 11_3_1 like Mac OS X; vi_vn)
+0 57
+Mozilla/5.0 (iPhone; CPU iPhone OS 12_0_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/12.0 Mobile/15E148 
+0 172
+Mozilla/5.0 (Linux; Android 8.0.0; SAMSUNG SM-J330G Build/R16NW) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/7.0 Ch
+0 132
+Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.110 Safari/537.36
+0 77
+Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) coc_coc_browser/76.0.102 Chrome/70.0.3538.102 Safa
+0 2470
+Mozilla/5.0 (iPhone; CPU iPhone OS 11_4 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/11.0 Mobile/15E148 Sa
+0 82
+Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) coc_coc_browser/76.0.102 Chrome/70.0.3538.102 Safari/537.
+0 1240
+Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/71.0.3578.80 Safari/537.36
+0 3698
+facebookexternalhit/1.1 (+http://www.facebook.com/externalhit_uatext.php)
+0 41
+Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:64.0) Gecko/20100101 Firefox/64.0
+0 92
+Mozilla/5.0 (Windows NT 5.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/49.0.2623.112 Safari/537.36
+0 3697
+Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) coc_coc_browser/76.0.112 Chrome/70.0.3538.112 Saf
+0 391
+Mozilla/5.0 (iPad; CPU OS 10_3_3 like Mac OS X) AppleWebKit/603.3.8 (KHTML, like Gecko) Version/10.0 Mobile/14G60 Safari/602.
+0 1250
+Mozilla/5.0 (Windows NT 6.0; WOW64; rv:52.0) Gecko/20100101 Firefox/52.0
+0 88
+Mozilla/5.0 (iPhone; CPU iPhone OS 11_4 like Mac OS X) AppleWebKit/604.1.34 (KHTML, like Gecko) CriOS/70.0.3538.75 Mobile/15E
+0 180
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.110 Safari/537.36
+0 104
+Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) coc_coc_browser/76.0.112 Chrome/70.0.3538.112 Safari/537.
+0 1830
+Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) coc_coc_browser/76.0.110 Chrome/70.0.3538.110 Safari/537
+0 242
+Mozilla/5.0 (iPhone; CPU iPhone OS 11_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/11.0 Mobile/15E148 Sa
+0 250
+Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 6.1; WOW64; Trident/4.0; SLCC2; .NET CLR 2.0.50727; .NET CLR 3.5.30729; .NET CL
+0 2
+Mozilla/5.0 (compatible; YandexBot/3.0; +http://yandex.com/bots)
+0 9
+Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36
+0 268
+Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:63.0) Gecko/20100101 Firefox/63.0
+0 171
+Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.110 Safari/537.36
+0 7512
+Mozilla/5.0 (iPhone; CPU iPhone OS 12_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/12.0 Mobile/15E148 Sa
+0 168
+Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) coc_coc_browser/75.4.124 Chrome/69.4.3497.124 Safa
+0 1056
+Mozilla/5.0 (iPhone; CPU iPhone OS 10_1_1 like Mac OS X) AppleWebKit/602.2.14 (KHTML, like Gecko) Version/10.0 Mobile/14B100 
+0 427
+Mozilla/5.0 (iPad; CPU OS 12_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) CriOS/70.0.3538.75 Mobile/15E148 Safar
+0 22
+Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/49.0.2623.75 Safari/537.36 Google Favicon
+0 18
+Mozilla/5.0 (Windows NT 6.1; WOW64; rv:50.0) Gecko/20100101 Firefox/50.0
+0 5
+Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.102 Safari/537.36
+0 91
+Mozilla/5.0 (iPhone; CPU iPhone OS 10_3_3 like Mac OS X) AppleWebKit/603.3.8 (KHTML, like Gecko) Version/10.0 Mobile/14G60 Sa
+0 44
+Mozilla/5.0 (Windows NT 6.2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.110 Safari/537.36
+0 485
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.110 Safari/537.36
+0 140
+Mozilla/5.0 (iPhone; CPU iPhone OS 11_0 like Mac OS X) AppleWebKit/604.1.38 (KHTML, like Gecko) Version/11.0 Mobile/15A372 Sa
+0 1
+Mozilla/5.0 (Windows NT 6.1; rv:64.0) Gecko/20100101 Firefox/64.0
+0 249
+Mozilla/5.0 (Linux; Android 6.0; F3216 Build/36.0.B.2.146) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Mobile
+0 144
+Mozilla/5.0 (Linux; U; Android 8.1.0; vi-vn; Redmi Note 5 Build/OPM1.171019.011) AppleWebKit/537.36 (KHTML, like Gecko) Versi
+0 82
+Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) coc_coc_browser/76.0.102 Chrome/70.0.3538.102 Saf
+0 1225
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/71.0.3578.80 Safari/537.36
+0 99
+Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) coc_coc_browser/76.0.114 Chrome/70.0.3538.114 Safa
+0 226
+Mozilla/5.0 (Windows NT 6.1; WOW64) SkypeUriPreview Preview/0.5
+0 16
+Mozilla/5.0 (Linux; Android 8.0.0; G3416 Build/48.1.A.2.50) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Mobil
+0 56
+Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/33.0.1750.18 Safari/537.36
+0 48
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.110 Safari/537.36
+0 5062
+Mozilla/5.0 (Linux; Android 5.1.1; R7kf) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.110 Mobile Safari/537.36
+0 19
+Mozilla/5.0 (Windows NT 5.1) AppleWebKit/537.36 (KHTML, like Gecko) coc_coc_browser/56.3.162 Chrome/50.3.2661.162 Safari/537.
+0 2688
+Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) coc_coc_browser/76.0.112 Chrome/70.0.3538.112 Safa
+0 84
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/64.0.3282.140 Safari/537.36 Edge/17.1
+0 550
+Mozilla/5.0 (Windows NT 6.1; rv:63.0) Gecko/20100101 Firefox/63.0
+0 927
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/12.0 Safari/605.1.15
+0 3195
+Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) coc_coc_browser/76.0.114 Chrome/70.0.3538.114 Safari/537.
+0 312
+AppleCoreMedia/1.0.0.15F79 (iPhone; U; CPU OS 11_4 like Mac OS X; vi_vn)
+0 86
+Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) coc_coc_browser/75.4.124 Chrome/69.4.3497.124 Safari/537.
+0 161
+Mozilla/5.0 (Linux; Android 6.0; Redmi Note 4 Build/MRA58K; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/61.
+0 3
+Mozilla/5.0 (Linux; Android 5.1.1; A37f) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.110 Mobile Safari/537.36
+0 203
+Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 6.1; Trident/7.0; SLCC2; .NET CLR 2.0.50727; .NET CLR 3.5.30729; .NET CLR 3.0.3
+0 1
+Mozilla/5.0 (Linux; Android 5.0.2; HTC One E9 dual sim) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.80 Mobile Saf
+0 153
+# End Of Table - agents
+# -search strings- 
+# End Of Table - search strings
+# -usernames- 
+# End Of Table - usernames
